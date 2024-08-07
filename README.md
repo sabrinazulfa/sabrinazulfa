@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sabrinazulfa
-- 👀 I’m interested in Server Management
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on company
+- 👀 I’m interested in Server Management, Cloud Computing, and AWS Technology
+- 🌱 I’m currently working on HOSTi
 - 📫 How to reach me find me on https://www.linkedin.com/in/sabrina-zulfa/
 
 <!---
